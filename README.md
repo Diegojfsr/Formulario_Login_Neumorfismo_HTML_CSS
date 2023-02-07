@@ -9,7 +9,7 @@ Exploraremos a nova tendência de neumorfismo e criaremos um "Formulário de log
 <h3>
   <em>
   Esse é o meu repositorio do projeto, 
-  <strong> Formulário de login de neumorfismo </strong>
+  <strong> Formulário de login de neumorfismo. </strong>
   </em>
 </h3>  
 
